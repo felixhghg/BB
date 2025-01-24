@@ -1,1 +1,1 @@
-output/ByByeScratch2
+output/ByByeScratch2.exe
